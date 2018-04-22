@@ -17,3 +17,7 @@
   - automates almost all of the work
   - strict credentials prevent bugs
   - never unable to revert to back up
+- my improvements
+  - version control
+  - larger data analysis team
+  - 
