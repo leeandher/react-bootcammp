@@ -1,0 +1,19 @@
+- importance of documentation
+- description of system
+- visio map of system
+- my contributions to the system
+- user interactivity 
+- weaknesses of system
+  - speed
+  - wait statements
+  - hardcoded ness of usernames/ permssions
+  - credentials and confidentials
+  - dependencies on other spreads/data
+  - lack of tracability
+  - bounces around (lang to lang) so hard to learn
+  - cluttered with excess files (not deleted)
+- strengths of system
+  - effective and get the job done
+  - automates almost all of the work
+  - strict credentials prevent bugs
+  - never unable to revert to back up
