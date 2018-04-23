@@ -20,4 +20,18 @@
 - my improvements
   - version control
   - larger data analysis team
-  - 
+  - overhaul on revamp of pointless code
+  - complete system documentation
+  - larger QE department
+  
+  
+  Glossary
+   - SQL : structured query languages
+   - VBA : visual basic for applications
+   - MS (microsoft)
+   - enterprise resource planning (ERP)
+   - SAP : Systems Applications and Products in Data Processing (English) 
+   - MES
+   - ODBC: open db connection
+   - QE
+   - CWDS
