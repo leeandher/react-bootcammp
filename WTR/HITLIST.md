@@ -3,6 +3,12 @@
 - visio map of system
 - my contributions to the system
 - user interactivity 
+
+alternatives
+- python
+
+
+
 - weaknesses of system
   - speed
   - wait statements
@@ -12,6 +18,7 @@
   - lack of tracability
   - bounces around (lang to lang) so hard to learn
   - cluttered with excess files (not deleted)
+  - access file sizes and queries
 - strengths of system
   - effective and get the job done
   - automates almost all of the work
@@ -23,6 +30,7 @@
   - overhaul on revamp of pointless code
   - complete system documentation
   - larger QE department
+  - split databases, fronte end and backend
   
   
   Glossary
